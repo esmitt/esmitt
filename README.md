@@ -4,14 +4,14 @@ Since 17 years ago, I am writing code in different programming languages. Curren
 
 I am finishing my Ph.D. in the [CVC](http://www.cvc.uab.es) at the [UaB](cvc.uab.es/). I coded different programming languages, frameworks and libraries. Also, I love the humor in almost any sense, I hear a lot of podcasts to work even to relax.
 
-```yaml
+```json
 var networks =
 {
-	domain: "https://esmittcode.me",
-	github: "esmitt",
-	twitter: "ecodedev",
-	instagram: "ecode.dev",
-	youtube: "https://bit.ly/ecodedev",
-	default: "ecode.dev"
+	"domain": "https://esmittcode.me",
+	"github": "esmitt",
+	"twitter": "ecodedev",
+	"instagram": "ecode.dev",
+	"youtube": "https://bit.ly/ecodedev",
+	"default": "ecode.dev"
 }
 ```
