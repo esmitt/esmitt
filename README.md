@@ -7,10 +7,9 @@ I am finishing my Ph.D. in the [Computer Vision Center - CVC](http://www.cvc.uab
 ```json
 var networks =
 {
-	"domain": "https://esmittcode.me",
-	"twitter": "ecodedev",
-	"instagram": "ecode.dev",
-	"youtube": "https://bit.ly/ecodedev",
-	"default": "ecode.dev"
+	"domain": "https://ecode.dev",
+	"twitter": "https://twitter.com/ecodedev",
+	"instagram": "https://www.instagram.com/ecode.dev/",
+	"youtube": "https://bit.ly/ecodedev"
 }
 ```
