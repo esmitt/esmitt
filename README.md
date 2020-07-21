@@ -1,6 +1,6 @@
 # 🖖 Hello humans 👽
 
-- ⏳ My story started 18 years ago when I started to code at University
+- ⏳ My story as a developer started 18 years ago at University
 - 🕹️ I like to create, start, and run IT-related projects, and spread the knowledge in Computer Science
 - 💻 I am working on Machine Learning approaches for medical imaging
 - 🎓 I am finishing my Ph.D. in the [Computer Vision Center - CVC](http://www.cvc.uab.es) at the [UaB](http://www.cvc.uab.es/) and got my MSc in Computer Science in the Computer Graphics Center -CCG at the [UCV](http://www.ucv.ve)
