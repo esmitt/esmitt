@@ -5,7 +5,9 @@
 - 💻 I am working on Machine Learning approaches for medical imaging
 - 🎓 I am finishing my Ph.D. in the [Computer Vision Center - CVC](http://www.cvc.uab.es) at the [UaB](http://www.cvc.uab.es/) and got my MSc in Computer Science in the Computer Graphics Center -CCG at the [UCV](http://www.ucv.ve)
 - 📝 I write code in different programming languages, frameworks, and libraries. 
-- 🤡 I love the humor in almost any sense, I hear/watch podcasts/series to learn, to laugh, and even while I'm cooking! 😎
+- 🤡 I love the humor in almost any sense, I hear/watch podcasts/series to learn, to laugh, and even while I'm cooking! 
+
+<p>To know more about my projects, please check my networks. Thanks.</p>
 
 <a href="https://www.ecode.dev">
   <img align="left" alt="ecode.DEV - Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ghost.svg">
