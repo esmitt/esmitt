@@ -9,15 +9,7 @@
 
 <p>To know more about my projects, please check my networks. Thanks.</p>
 
-<a href="https://www.ecode.dev">
-  <img align="left" alt="ecode.DEV - Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ghost.svg">
-</a>
-<a href="https://instagram.com/ecode.dev">
-  <img align="left" alt="ecode.DEV - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
-<a href="https://twitter.com/ecodedev">
-  <img align="left" alt="ecode.DEV - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
-</a>
-<a href="https://bit.ly/ecodedev">
-  <img align="left" alt="ecode.DEV - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">
-</a>
+- ✨Blog: https://www.ecode.dev
+- ✨Twitch: https://www.twitch.tv/ecodedev
+- ✨Twitter: https://twitter.com/ecodedev
+- ✨Youtube: https://bit.ly/ecodedev
