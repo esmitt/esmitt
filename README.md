@@ -7,6 +7,8 @@
 - 📝 I write code in different programming languages, frameworks, and libraries. 
 - 🤡 I love the humor in almost any sense, I hear/watch podcasts/series to learn, to laugh, and even while I'm cooking! 
 
+![Esmitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmitt&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmitt&layout=compact&theme=buefy)](#)
+
 <p>To know more about my projects, please check my networks. Thanks.</p>
 
 - ✨Blog: https://www.ecode.dev
