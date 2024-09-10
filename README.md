@@ -18,4 +18,4 @@ As a technical lead, I focus on building teams that are motivated, innovative, a
 
 ### 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/esmitt/)
-- [Youtube]((https://bit.ly/ecodedev))
+- [Youtube](https://bit.ly/ecodedev)
