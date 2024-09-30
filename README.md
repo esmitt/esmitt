@@ -7,7 +7,7 @@ I am a Senior Software Developer with over 16 years of experience specializing i
 ### 💼 Technical Expertise:
 - **Languages**: C++, Python, C#, Java
 - **Systems**: Embedded Systems, Low-Level Programming, Scientific Programming
-- **Graphics & Gaming**: OpenGL, Game Engines, Shaders
+- **Graphics & Images**: OpenGL, Game Engines, Shaders, OpenCV, VTK, ITK, GLFW
 - **Development**: Back-end Development, Algorithm Design, Real-Time Applications
 - **Architecture**: Microservices, Distributed Systems, Multi-threading
 - **Tools**: Git, Docker, Jenkins, CI/CD Pipelines
