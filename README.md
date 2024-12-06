@@ -14,7 +14,7 @@ I am a Senior Software Developer with over 18 years of experience specializing i
 - **Leadership**: Leading development teams, Code Review, Mentorship
 
 ### 🚀 My Vision
-As a technical lead, I focus on building teams that are motivated, innovative, and capable of delivering robust, scalable products. I prioritize **code quality**, **efficient design**, and **collaborative team dynamics**.
+As a technical lead, I focus on building motivated, innovative teams capable of delivering robust, scalable products. I prioritize **code quality**, **efficient design**, and **collaborative team dynamics**.
 
 ### 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/esmitt/)
