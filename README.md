@@ -2,7 +2,7 @@
 
 ### Senior Software Developer | Technical Lead | Embedded Systems & Gaming Enthusiast
 
-I am a Senior Software Developer with over 16 years of experience specializing in **C++**, **Python**, **Embedded Systems**, **Graphics**, and **Game Development**. My passion lies in building high-performance applications and leading teams to deliver efficient, real-time, scalable, and clean solutions.
+I am a Senior Software Developer with over 18 years of experience specializing in **C++**, **Python**, **Embedded Systems**, **Graphics**, and **Game Development**. My passion lies in building high-performance applications and leading teams to deliver efficient, real-time, scalable, and clean solutions.
 
 ### 💼 Technical Expertise:
 - **Languages**: C++, Python, C#, Java
