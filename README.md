@@ -5,7 +5,7 @@
 I am a Senior Software Developer with over 18 years of experience specializing in **C++**, **Python**, **Embedded Systems**, **Graphics**, and **Game Development**. My passion lies in building high-performance applications and leading teams to deliver efficient, real-time, scalable, and clean solutions.
 
 ### 💼 Technical Expertise:
-- **Languages**: C++, Python, C#, Java
+- **Languages**: C++ (<= 17), Python 3, C, C#, Java
 - **Systems**: Embedded Systems, Low-Level Programming, Scientific Programming
 - **Graphics & Images**: OpenGL, Game Engines, Shaders, OpenCV, GLFW, Dear ImGui
 - **Development**: Back-end Development, Algorithm Design, Real-Time Applications
